@@ -5,11 +5,11 @@ info:
     version: 1.0.0
     description: >-
         ### 🏁 Installation
-        Follow [these]()
+        Follow [these](https://github.com/Sakibdevlekar/Bite-Speed-Assignment)
         instructions for the installation and project setup.
 
         ### 🐞 Reporting issues
-        If you find API issues or bugs when testing, please create an [issue](https://github.com/Sakibdevlekar/Bit-Speed-Assignment-/issues)
+        If you find API issues or bugs when testing, please create an [issue](https://github.com/Sakibdevlekar/Bite-Speed-Assignment/issues)
     contact:
         {
             name: "Sakib Devlekar",

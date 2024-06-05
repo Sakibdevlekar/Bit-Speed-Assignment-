@@ -50,7 +50,7 @@ app.use(
         swaggerOptions: {
             docExpansion: "none", // keep all the sections collapsed by default
         },
-        customSiteTitle: " BitSpeed API Docs",
+        customSiteTitle: " BiteSpeed API Docs",
     }),
 );
 

@@ -1,6 +1,6 @@
 <div align="center">
-   <a href="" target="_blank">
-      <h1>BitSpeed</h1>
+   <a href="https://api-bite-speed.onrender.com/docs/" target="_blank">
+      <h1>BiteSpeed</h1>
     </a>
 </div>
 
@@ -25,7 +25,7 @@
 1. Clone or download this repository to your local machine:
 
 ```bash
-sudo git clone https://github.com/Sakibdevlekar/Bit-Speed-Assignment-.git
+sudo git clone https://github.com/Sakibdevlekar/Bite-Speed-Assignment.git
 ```
 
 
@@ -58,7 +58,7 @@ Once the backend server is running, you can start using the API's features. To a
 
 ### Usage Notes
 
--   For detailed information about available API endpoints, request formats, authentication requirements, and response structures, refer to the **[BitSpeed Backend API Documentation]()**.
+-   For detailed information about available API endpoints, request formats, authentication requirements, and response structures, refer to the **[BiteSpeed Backend API Documentation](https://api-bite-speed.onrender.com/docs/)**.
 
 -   Use this documentation to understand and integrate the backend API into your frontend application effectively.
 
