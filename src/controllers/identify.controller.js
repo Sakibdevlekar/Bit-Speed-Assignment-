@@ -2,7 +2,7 @@ const Contact = require("../models/contact.model");
 const { asyncHandler, sendResponse } = require("../utils/helper.utils");
 const {Op} = require('sequelize')
 
-exports.getData = asyncHandler(async (req, res) => {
+exports.contactData = asyncHandler(async (req, res) => {
     const { email, phoneNumber } = req.body;
 
     let primaryContact = null;
