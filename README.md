@@ -58,7 +58,7 @@ Once the backend server is running, you can start using the API's features. To a
 
 ### Usage Notes
 
--   For detailed information about available API endpoints, request formats, authentication requirements, and response structures, refer to the **[BitSpeed Backend API Documentation](https://api-chatzo.onrender.com/api/v1/docs/)**.
+-   For detailed information about available API endpoints, request formats, authentication requirements, and response structures, refer to the **[BitSpeed Backend API Documentation]()**.
 
 -   Use this documentation to understand and integrate the backend API into your frontend application effectively.
 

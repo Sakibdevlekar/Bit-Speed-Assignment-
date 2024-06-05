@@ -19,7 +19,7 @@ info:
 servers:
     - url: ${{server}}
 
-paths:
+paths: 
     /identify:
         post:
             tags:
